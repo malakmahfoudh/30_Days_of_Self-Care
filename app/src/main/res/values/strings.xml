@@ -1,0 +1,123 @@
+<!-- app/src/main/res/values/strings.xml -->
+<resources>
+    <string name="app_name">30 Days of Self-Care</string>
+
+    <!-- Day 1 -->
+    <string name="day1_title">Day 1: Go Out Alone</string>
+    <string name="day1_description">Take a walk, sit in a café, or browse a store — just you. No agenda, no distractions. Let the world pass by while you simply exist. Sometimes, being alone is the most powerful way to reconnect with yourself.</string>
+
+    <!-- Day 2 -->
+    <string name="day2_title">Day 2: Buy Something Just for You</string>
+    <string name="day2_description">A flower, a notebook, chocolate — no guilt. This isn’t indulgence; it’s self-respect. You deserve small joys that have nothing to do with productivity or pleasing others. Choose something that makes your heart smile.</string>
+
+    <!-- Day 3 -->
+    <string name="day3_title">Day 3: Read a Book (Even 10 Pages)</string>
+    <string name="day3_description">Fiction, poetry, self-help — let words carry you away. Reading is not about finishing a book; it’s about giving your mind space to wander, to dream, to feel. Even 10 pages can be an escape, a comfort, a revelation.</string>
+
+    <!-- Day 4 -->
+    <string name="day4_title">Day 4: Take Care of Your Skin</string>
+    <string name="day4_description">Cleanse, moisturize, or apply a face mask. This isn’t vanity — it’s ritual. Touching your skin gently reminds you that you are worthy of care. Let this moment be slow, quiet, and entirely yours.</string>
+
+    <!-- Day 5 -->
+    <string name="day5_title">Day 5: Drink 2L of Water</string>
+    <string name="day5_description">Hydrate your body — it’s self-respect. Water is life, and when you drink enough, you feel lighter, clearer, more alive. Keep a bottle with you. Sip slowly. Honor the vessel that carries you through every day.</string>
+
+    <!-- Day 6 -->
+    <string name="day6_title">Day 6: Say “No” to Something</string>
+    <string name="day6_description">Protect your time. Say no without explaining. You don’t owe anyone your energy. Saying “no” is not rejection — it’s boundaries. It’s saying “yes” to yourself first. Practice it gently, but firmly.</string>
+
+    <!-- Day 7 -->
+    <string name="day7_title">Day 7: Light a Candle &amp; Breathe</string>
+    <string name="day7_description">Create calm. Just 5 minutes of peace. Light a candle, close your eyes, and breathe deeply. Let the flame remind you that even in darkness, there is light. Let your breath anchor you to the present moment.</string>
+
+    <!-- Day 8 -->
+    <string name="day8_title">Day 8: Write Down 3 Good Things</string>
+    <string name="day8_description">From today. Big or tiny. A warm cup of tea, a kind word from a stranger, a moment of quiet — write them down. Gratitude doesn’t need grand gestures. It lives in the small, ordinary moments we often overlook.</string>
+
+    <!-- Day 9 -->
+    <string name="day9_title">Day 9: Wear Something That Makes You Feel Pretty</string>
+    <string name="day9_description">Not for others — for you. Choose an outfit that feels like YOU. Let the fabric, the color, the fit remind you that you are beautiful just as you are. Beauty is not performance — it’s presence.</string>
+
+    <!-- Day 10 -->
+    <string name="day10_title">Day 10: Light a Candle &amp; Write in Your Journal</string>
+    <string name="day10_description">Create a quiet ritual just for you. Light a candle, pour a warm drink, and write whatever’s on your heart — no rules, no judgment. Let your thoughts flow freely onto the page. This is your sacred time.</string>
+    <!-- Day 11 -->
+    <string name="day11_title">Day 11: Compliment Yourself in the Mirror</string>
+    <string name="day11_description">“You’re doing great.” Mean it. Look yourself in the eyes and say it out loud. You are not a project to fix — you are a person to cherish. Compliment your strength, your kindness, your resilience — even if no one else sees it.</string>
+
+    <!-- Day 12 -->
+    <string name="day12_title">Day 12: Eat a Meal Without Screens</string>
+    <string name="day12_description">Taste your food. Be present. Put your phone away. Let the flavors, textures, and smells fill your senses. Eating is not fuel — it’s pleasure. Nourish your body with attention, not distraction.</string>
+
+    <!-- Day 13 -->
+    <string name="day13_title">Day 13: Stretch for 5 Minutes</string>
+    <string name="day13_description">Wake up your body. Release tension. Stand up, reach for the sky, roll your shoulders, bend forward. Your body carries you through every day — thank it with movement. Don’t aim for perfection — aim for feeling good.</string>
+
+    <!-- Day 14 -->
+    <string name="day14_title">Day 14: Call a Friend Who Lifts You Up</string>
+    <string name="day14_description">Not to vent — just to laugh or share joy. Choose someone who makes you feel seen, heard, and loved. Let their voice remind you that you’re not alone. Connection is healing — even in small doses.</string>
+
+    <!-- Day 15 -->
+    <string name="day15_title">Day 15: Declutter One Small Space</string>
+    <string name="day15_description">A drawer, your bag, your desktop. Clearing physical space creates mental clarity. Pick one small area and organize it. Let go of what you don’t need. Create order — not perfection — and feel the calm that follows.</string>
+
+    <!-- Day 16 -->
+    <string name="day16_title">Day 16: Listen to a Song That Heals You</string>
+    <string name="day16_description">Let music hold you. Play a song that speaks to your soul — one that comforts, inspires, or moves you. Close your eyes and let the melody wrap around you. Music is medicine for the heart.</string>
+
+    <!-- Day 17 -->
+    <string name="day17_title">Day 17: Get 8 Hours of Sleep</string>
+    <string name="day17_description">Prioritize rest like it’s sacred. Sleep is not laziness — it’s renewal. Go to bed 30 minutes earlier. Dim the lights. Turn off screens. Let your body restore itself. You deserve to wake up rested, not exhausted.</string>
+
+    <!-- Day 18 -->
+    <string name="day18_title">Day 18: Cook or Order Your Favorite Meal</string>
+    <string name="day18_description">Nourish yourself with joy. Whether you cook or order, choose something that makes you happy. Savor each bite. Let food be celebration, not obligation. You deserve to eat what you love, not what you “should” eat.</string>
+
+    <!-- Day 19 -->
+    <string name="day19_title">Day 19: Sit Outside for 10 Minutes</string>
+    <string name="day19_description">Feel sun, wind, or rain on your skin. Sit under a tree, on a bench, or on your balcony. Let nature remind you that you are part of something bigger. Breathe in the air, listen to the birds, and just be.</string>
+
+    <!-- Day 20 -->
+    <string name="day20_title">Day 20: Write a Letter to Your Future Self</string>
+    <string name="day20_description">“I hope you’re proud of how far you’ve come.” Write it now. Seal it. Save it. In 6 months or a year, open it and see how far you’ve grown. This letter is proof that you were here, you tried, you showed up — and that’s enough.</string>
+
+    <!-- Day 21 -->
+    <string name="day21_title">Day 21: Do a Digital Detox (1 Hour)</string>
+    <string name="day21_description">No phone, no laptop — just you. Turn off notifications. Step away from screens. Let your mind wander without stimulation. Reconnect with your thoughts, your feelings, your breath. Silence is golden — especially in a noisy world.</string>
+
+    <!-- Day 22 -->
+    <string name="day22_title">Day 22: Practice Gratitude</string>
+    <string name="day22_description">Say “thank you” for 3 things out loud. For your hands that carry you, your heart that beats, your breath that flows. Gratitude shifts your focus from lack to abundance. It’s not about having everything — it’s about appreciating what you have.</string>
+
+    <!-- Day 23 -->
+    <string name="day23_title">Day 23: Try a New Skincare Product</string>
+    <string name="day23_description">Or use an old one slowly, mindfully. Apply it with intention — not as a chore, but as a gift to yourself. Let the texture, the scent, the sensation remind you that you are worth caring for. Beauty rituals are self-love in action.</string>
+
+    <!-- Day 24 -->
+    <string name="day24_title">Day 24: Write Yourself a Love Note</string>
+    <string name="day24_description">On a sticky note, in your journal, or on your mirror — write one kind thing you appreciate about yourself. “You’re brave.” “You’re kind.” “You’re enough.” Place it where you’ll see it daily. Let your own words become your anchor.</string>
+
+    <!-- Day 25 -->
+    <string name="day25_title">Day 25: Buy Fresh Flowers</string>
+    <string name="day25_description">Put them where you’ll see them every day. Flowers are not decoration — they are reminders of beauty, growth, and impermanence. Watch them bloom, then fade. Let them teach you to cherish the present moment.</string>
+
+    <!-- Day 26 -->
+    <string name="day26_title">Day 26: Journal for 5 Minutes</string>
+    <string name="day26_description">“How do I feel right now?” Just write. Don’t edit, don’t judge, don’t censor. Let your pen flow. Journaling is not about writing perfectly — it’s about releasing what’s inside. Your thoughts deserve space to breathe.</string>
+
+    <!-- Day 27 -->
+    <string name="day27_title">Day 27: Take a Photo of Something Beautiful</string>
+    <string name="day27_description">A cup of tea, your hands, the sky — beauty is everywhere. Capture it. Not for Instagram, not for likes — for you. Let the act of noticing beauty train your eyes to see wonder in the ordinary. You are surrounded by magic — if you look for it.</string>
+
+    <!-- Day 28 -->
+    <string name="day28_title">Day 28: Forgive Yourself for One Thing</string>
+    <string name="day28_description">Let it go. You’re learning. Mistakes are not failures — they are lessons. Whisper to yourself: “I forgive you.” Not because you did nothing wrong, but because you deserve peace. Forgiveness is not weakness — it’s freedom.</string>
+
+    <!-- Day 29 -->
+    <string name="day29_title">Day 29: Do Something That Scares You (Tiny)</string>
+    <string name="day29_description">Speak up, send that message, try that thing. Fear is not a stop sign — it’s a sign you’re growing. Do it anyway. You don’t need to be fearless — you just need to be brave for five minutes. Courage is not the absence of fear — it’s acting despite it.</string>
+
+    <!-- Day 30 -->
+    <string name="day30_title">Day 30: Celebrate Yourself</string>
+    <string name="day30_description">Look back: “I showed up for me all month.” You didn’t quit. You didn’t give up. You chose yourself, again and again. Celebrate that. Light a candle, dance, laugh, or simply breathe. You are worthy of celebration — not because you’re perfect, but because you’re human.</string>
+</resources>
